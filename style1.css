@@ -1,0 +1,40 @@
+h1 {
+  color: rgb(119, 24, 227);
+  font-size: 38px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  padding: 300px;
+}
+h2 {
+  color: blueviolet;
+  font-style: italic;
+}
+.rela {
+  font-style: italic;
+  font-size: 19px;
+  border-bottom: 1px solid rgb(46, 15, 159);
+}
+.xoa-gach {
+  list-style: none;
+}
+body {
+  background-color: aquamarine;
+}
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-head {
+  background-color: rgb(223, 6, 39);
+}
+nav a:link {
+  background-color: rgb(187, 26, 45);
+  margin: 20px;
+  padding: 20px;
+  display: block;
+}
+li {
+  display: inline;
+  padding: 20px;
+}
